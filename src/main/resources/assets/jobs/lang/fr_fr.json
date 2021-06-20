@@ -1,0 +1,29 @@
+{
+"keys.jobs.category" : "Metiers",
+"keys.jobs.open_gui" : "Ouvrir le Menu",
+
+"jobs.hunter" : "Chasseur",
+"jobs.magician" : "Magicien",
+"jobs.farmer" : "Fermier",
+"jobs.miner" : "Mineur",
+
+"text.level" : "niveau",
+"text.levelup" : "Niveau Superieur",
+"text.jobs.title" : "Metiers",
+"text.level.max" : "Niveau Max",
+"text.unlocked" : "Debloque",
+"text.unlock_craft" : "Craft Debloque",
+"text.unlock_drop" : "Collecte Debloque",
+"text.unlock_lvl" : "Debloque au niveau",
+"text.rewards" : "Recompenses",
+"text.total_progression" : "Progression Totale",
+
+"category.CRAFTING" : "Fabrication",
+"category.SMELTING" : "Fonte",
+"category.BREAKING" : "Cassage",
+"category.KILLING" : "Chasse",
+"category.HARVESTING" : "Collecte",
+"category.UNLOCK" : "Items Bloques",
+"category.XP" : "Comment XP ?"
+}
+

@@ -1,0 +1,13 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+[[mods]]
+
+modId="jobs"
+version="2.0"
+displayName="Jobs"
+credits=""
+authors="PolarFox27"
+description='''
+A mod that adds a Jobs system to Minecraft, with Rewards and Crafts Unlocking.
+'''
